@@ -1,3 +1,10 @@
+/*
+input
+7
+2 3 10 6 4 8 1
+output
+8
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
